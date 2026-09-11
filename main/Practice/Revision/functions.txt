@@ -1,0 +1,14 @@
+...................functions..................
+⭐⭐⭐⭐⭐ Most Repeated
+Write a function to find the factorial of a number.   ***
+Write a function to check whether a number is prime or not. ***
+Write a function to check whether a string/number is palindrome or not. ***
+Write a function to generate the Fibonacci series.***
+Write a recursive function to find the factorial of a number.***
+⭐⭐⭐⭐ Very Important
+Write a function to count the frequency of characters in a string.   ***
+Write a function to find the first non-repeating character in a string.   ***
+Write a function to find the second largest and second smallest element in a list. ***
+Write a function to remove duplicate elements from a list.***
+Write a function to count vowels and consonants in a string.
+

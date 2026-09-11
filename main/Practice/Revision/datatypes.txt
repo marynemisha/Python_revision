@@ -1,0 +1,28 @@
+⭐ Top 15 Questions (ഇവ ആദ്യം പഠിക്കൂ)
+Character frequency (String)              ☑
+Anagram                                   ☑
+Palindrome                                ☑
+Remove duplicate characters               ☑
+All substrings                            ☑
+Remove duplicates from list               ☑
+Second largest & second smallest          ☑
+Merge sorted lists                        ☑
+Missing number                            ☑
+Dictionary word frequency                 ☑
+Merge dictionaries                        ☑
+Dictionary character frequency            ☑
+Set Union                                 ☑
+Set intersection                          ☑
+Set Difference                            ☑
+
+
+⭐ Top 6 Expected Questions
+Write a program to check whether two strings are anagrams.☑
+Write a program to remove duplicate elements from a list while preserving the original order.  ☑
+Write a program to find the second largest and second smallest elements in a list without using sort()  ☑
+Write a program to count the frequency of each word in a sentence using a dictionary.☑
+Write a program to find the union and intersection of two sets (without using union()/intersection() methods).☑
+Write a program to find the first non-repeating character in a string using a dictionary.☑
+
+
+

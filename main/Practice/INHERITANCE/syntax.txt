@@ -1,0 +1,37 @@
+
+#syntax for inheritance prgm with menu driven
+class ClassName:
+    def __init__(self):
+        # Variables
+
+    def add/create(self):
+        # Input
+
+    def update(self):
+        # Update
+
+    def display(self):
+        # Print
+
+obj = ClassName()
+
+while True:
+    print("1....")
+    print("2....")
+    ...
+    print("Exit")
+
+    choice = int(input("Enter your choice: "))
+
+    if choice == 1:
+        obj.method1()
+    elif choice == 2:
+        obj.method2()
+    elif choice == 3:
+        obj.method3()
+    elif choice == 4:
+        obj.method4()
+    elif choice == 5:
+        break
+    else:
+        print("Invalid Choice")

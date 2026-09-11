@@ -1,0 +1,85 @@
+
+1. **Student Management System**
+
+   * Create Student
+   * Add Marks
+   * Update Marks
+   * Display Marks
+   * Student Details
+   * Exit
+
+2. **Bank Management System**
+
+   * Create Account
+   * Deposit
+   * Withdraw
+   * Balance Enquiry
+   * Account Details
+   * Exit
+
+3. **Library Management System**
+
+   * Add Book
+   * Issue Book
+   * Return Book
+   * Book Details
+   * Available Books
+   * Exit
+
+4. **Employee Management System**
+
+   * Add Employee
+   * Update Salary
+   * Display Salary
+   * Employee Details
+   * Exit
+
+5. **Hospital Management System**
+
+   * Add Patient
+   * Book Appointment
+   * Update Patient Details
+   * Patient Details
+   * Exit
+
+6. **Hotel Management System**
+
+   * Add Customer
+   * Book Room
+   * Check Out
+   * Bill Enquiry
+   * Customer Details
+   * Exit
+
+7. **Bus Reservation System**
+
+   * Add Passenger
+   * Book Ticket
+   * Cancel Ticket
+   * Passenger Details
+   * Exit
+
+8. **Mobile Recharge System**
+
+   * Create Customer
+   * Recharge
+   * Check Balance
+   * Customer Details
+   * Exit
+
+9. **Electricity Bill Management System**
+
+   * Add Consumer
+   * Enter Units
+   * Calculate Bill
+   * Consumer Details
+   * Exit
+
+10. **Movie Ticket Booking System**
+
+* Add Customer
+* Book Ticket
+* Cancel Ticket
+* Booking Details
+* Exit
+
