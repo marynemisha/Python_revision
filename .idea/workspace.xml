@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="01b4e8ac-f9a6-4879-a3a6-430af0873ee9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Library_management/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/all_substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/first_non_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/large_small.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/missing_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/duplicate_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/rev_without_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/same_elements_in_order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library_management" beforeDir="false" afterPath="$PROJECT_DIR$/Library_management" afterDir="false" />
     </list>
@@ -93,6 +88,7 @@
     "Python.count.executor": "Run",
     "Python.count_all.executor": "Run",
     "Python.diamond_pyramid.executor": "Run",
+    "Python.duplicate_tuple.executor": "Run",
     "Python.even_forloop.executor": "Run",
     "Python.fact.executor": "Run",
     "Python.first_non_repeat.executor": "Run",
@@ -104,6 +100,7 @@
     "Python.hollow_triangle.executor": "Run",
     "Python.identity_matrix_1.executor": "Run",
     "Python.identity_matrix_2.executor": "Run",
+    "Python.index_without_index().executor": "Run",
     "Python.invert_alpha_continuous.executor": "Run",
     "Python.invert_number_pyramid.executor": "Run",
     "Python.invert_number_triangle.executor": "Run",
@@ -150,6 +147,7 @@
     "Python.rev_right_triangle_stra.executor": "Run",
     "Python.rev_sentence.executor": "Run",
     "Python.rev_triangle_star.executor": "Run",
+    "Python.rev_without_slicing.executor": "Run",
     "Python.reverse.executor": "Run",
     "Python.right_triangle.executor": "Run",
     "Python.right_triangle_using_star.executor": "Run",
@@ -157,6 +155,7 @@
     "Python.s.executor": "Run",
     "Python.same_alpha_pattern.executor": "Run",
     "Python.same_continuous_alpha.executor": "Run",
+    "Python.same_elements_in_order.executor": "Run",
     "Python.same_number_triangle (1).executor": "Run",
     "Python.second.executor": "Run",
     "Python.second_large_small.executor": "Run",
@@ -194,8 +193,8 @@
       <recent name="C:\Users\nemis\PycharmProjects\sample\for_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.large_small">
-    <configuration name="all_substrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.duplicate_tuple">
+    <configuration name="duplicate_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +209,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/all_substrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/duplicate_tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index_without_index()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Revision_python/Datatypes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/index_without_index().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rev_without_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,7 +281,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/rev_without_slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="same_elements_in_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,31 +305,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_str.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prime_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Revision_python/Datatypes" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/prime_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/same_elements_in_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.duplicate_tuple" />
+        <item itemvalue="Python.same_elements_in_order" />
+        <item itemvalue="Python.rev_without_slicing" />
+        <item itemvalue="Python.index_without_index()" />
         <item itemvalue="Python.large_small" />
-        <item itemvalue="Python.prime_numbers" />
-        <item itemvalue="Python.all_substrings" />
-        <item itemvalue="Python.palindrome_number" />
-        <item itemvalue="Python.palindrome_str" />
       </list>
     </recent_temporary>
   </component>
