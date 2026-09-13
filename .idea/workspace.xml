@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01b4e8ac-f9a6-4879-a3a6-430af0873ee9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Library_management/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/word_freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/merge_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library_management" beforeDir="false" afterPath="$PROJECT_DIR$/Library_management" afterDir="false" />
     </list>
@@ -113,6 +113,7 @@
     "Python.left_right_triangle.executor": "Run",
     "Python.lib_views.executor": "Run",
     "Python.library.executor": "Run",
+    "Python.merge_dict.executor": "Run",
     "Python.missing_number.executor": "Run",
     "Python.multiply.executor": "Run",
     "Python.non-repeat_elements.executor": "Run",
@@ -172,7 +173,7 @@
     "Python.without_difference.executor": "Run",
     "Python.without_intersection().executor": "Run",
     "Python.without_union().executor": "Run",
-    "Python.word_freq.executor": "Run",
+    "Python.word_freq.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -193,7 +194,7 @@
       <recent name="C:\Users\nemis\PycharmProjects\sample\for_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.word_freq">
+  <component name="RunManager" selected="Python.new_dict">
     <configuration name="duplicate_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
@@ -242,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rev_without_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="merge_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,7 +258,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/rev_without_slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/merge_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="same_elements_in_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="new_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,7 +282,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/same_elements_in_order.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/new_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.new_dict" />
+        <item itemvalue="Python.merge_dict" />
         <item itemvalue="Python.word_freq" />
         <item itemvalue="Python.highest_value_key" />
         <item itemvalue="Python.duplicate_tuple" />
-        <item itemvalue="Python.same_elements_in_order" />
-        <item itemvalue="Python.rev_without_slicing" />
       </list>
     </recent_temporary>
   </component>
