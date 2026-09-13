@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="01b4e8ac-f9a6-4879-a3a6-430af0873ee9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Library_management/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/5_second_most.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/all_substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/first_non_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/large_small.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/missing_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision_python/Datatypes/rotation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library_management" beforeDir="false" afterPath="$PROJECT_DIR$/Library_management" afterDir="false" />
     </list>
@@ -67,6 +74,7 @@
     "Python.Number_pattern_9.executor": "Run",
     "Python.Number_triangle.executor": "Run",
     "Python.all.executor": "Run",
+    "Python.all_substrings.executor": "Run",
     "Python.all_words_starting_with_a_vowel.executor": "Run",
     "Python.alpha_pattern.executor": "Run",
     "Python.anagaram.executor": "Run",
@@ -87,6 +95,7 @@
     "Python.diamond_pyramid.executor": "Run",
     "Python.even_forloop.executor": "Run",
     "Python.fact.executor": "Run",
+    "Python.first_non_repeat.executor": "Run",
     "Python.freq_str.executor": "Run",
     "Python.frequency_of_each _character.executor": "Run",
     "Python.full_square_star.executor": "Run",
@@ -103,10 +112,12 @@
     "Python.inverted_pyramid.executor": "Run",
     "Python.inverted_python_pattern.executor": "Run",
     "Python.inverted_right_triangle_using_star.executor": "Run",
+    "Python.large_small.executor": "Run",
     "Python.leap_year.executor": "Run",
     "Python.left_right_triangle.executor": "Run",
     "Python.lib_views.executor": "Run",
     "Python.library.executor": "Run",
+    "Python.missing_number.executor": "Run",
     "Python.multiply.executor": "Run",
     "Python.non-repeat_elements.executor": "Run",
     "Python.non_repeat_fun.executor": "Run",
@@ -121,11 +132,13 @@
     "Python.palindrome.executor": "Run",
     "Python.palindrome_fun.executor": "Run",
     "Python.palindrome_num.executor": "Run",
+    "Python.palindrome_number.executor": "Run",
     "Python.palindrome_pattern.executor": "Run",
     "Python.palindrome_str.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime1.executor": "Run",
     "Python.prime_number.executor": "Run",
+    "Python.prime_numbers.executor": "Run",
     "Python.pyramid.executor": "Run",
     "Python.pyramid_lower.executor": "Run",
     "Python.python_pattern.executor": "Run",
@@ -140,6 +153,7 @@
     "Python.reverse.executor": "Run",
     "Python.right_triangle.executor": "Run",
     "Python.right_triangle_using_star.executor": "Run",
+    "Python.rotation.executor": "Run",
     "Python.s.executor": "Run",
     "Python.same_alpha_pattern.executor": "Run",
     "Python.same_continuous_alpha.executor": "Run",
@@ -180,8 +194,8 @@
       <recent name="C:\Users\nemis\PycharmProjects\sample\for_loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5_second_most">
-    <configuration name="2_rev_sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.large_small">
+    <configuration name="all_substrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,7 +210,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\nemis\PycharmProjects\sample\Revision_python\Datatypes\2_rev_sentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/all_substrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_frequency_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="large_small" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,7 +234,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/3_frequency_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/large_small.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +258,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/4_anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_remove_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +282,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/4_remove_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/palindrome_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_second_most" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +306,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/5_second_most.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Revision_python/Datatypes/prime_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_second_most" />
-        <item itemvalue="Python.4_remove_duplicates" />
-        <item itemvalue="Python.4_anagram" />
-        <item itemvalue="Python.3_frequency_string" />
-        <item itemvalue="Python.2_rev_sentence" />
+        <item itemvalue="Python.large_small" />
+        <item itemvalue="Python.prime_numbers" />
+        <item itemvalue="Python.all_substrings" />
+        <item itemvalue="Python.palindrome_number" />
+        <item itemvalue="Python.palindrome_str" />
       </list>
     </recent_temporary>
   </component>
